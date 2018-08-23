@@ -1,9 +1,7 @@
 # NPM Install #
-cd server
-npm install
+cd server && npm install / cd server ; npm install
 
-cd client
-npm install
+cd client && npm install / cd client ; npm install
 
 # Create MongoDB Database #
 1. create MongoDB database
